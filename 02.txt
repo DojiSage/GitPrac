@@ -1,6 +1,2 @@
 onefunction - added important function here
 twofunction - added important function here
-
-three - added important function here
-fourth function - very important addition
-fifth function - latest addition
