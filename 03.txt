@@ -1,4 +1,6 @@
 This is a change
 This is a second change
-
+2nd October: A previous function was changed
 This change will go in the newbranch
+
+2nd October: A new function was added
