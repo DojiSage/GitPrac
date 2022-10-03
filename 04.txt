@@ -1,0 +1,2 @@
+Added function 1
+
